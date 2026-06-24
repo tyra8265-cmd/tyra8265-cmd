@@ -44,10 +44,9 @@ I build practical AI tools and automations for HR teams, recruiters, and People 
 ## Background
 
 - 17+ years in HR, workforce operations, and talent acquisition
-- HR Business Partner @ Akumin Radiology (3,500 employees, 47 states)
-- Independent HR Consulting (2014–2018) — 6 concurrent clients across healthcare, education, and media
-- Top 10 of 80 recruiters @ AMN Healthcare — 115% of quota
-- SHRM-SCP (in progress)
+- Independent HR Consulting (2014–2018) — 8 concurrent clients across healthcare, education, media & more
+
+
 
 ---
 
